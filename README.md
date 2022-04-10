@@ -15,10 +15,10 @@
 
 ### インストール方法
 
-1. あなたのパソコンのOSの種類（Windows, macOSなど）にあわえせて、ダウンロード先から**Ultimate版**をダウンロードしてください。（ここから先はWindows版の画面で説明しますが、macOSでも同様に操作してください）<br>![](fig01.png)
+1. あなたのパソコンのOSの種類（Windows, macOSなど）にあわえせて、ダウンロード先から**Ultimate版**をダウンロードしてください。（ここから先はWindows版の画面で説明しますが、macOSでも同様に操作してください）<br>![](fig/fig01.png)
 2. **ダウンロードしたファイル**を起動してください。
-3. インストールが開始するまで、 **Next** ボタンで進めます。（詳しい人は、途中、好みでインストールの設定を変えても構いません）<br>![](fig02.png)
-4. インストールが完了したら、**Finish**をクリックしてください。<br>![](fig03.png)
+3. インストールが開始するまで、 **Next** ボタンで進めます。（詳しい人は、途中、好みでインストールの設定を変えても構いません）<br>![](fig/fig02.png)
+4. インストールが完了したら、**Finish**をクリックしてください。<br>![](fig/fig03.png)
 
 以上です。
 
@@ -36,7 +36,7 @@ JetBrainsの学生アカウントがない人は、学生アカウントを作�
 
 学生割引申請フォーム： [https://www.jetbrains.com/shop/eform/students](https://www.jetbrains.com/shop/eform/students) にアクセスします。
 
-![](fig04.png)
+![](fig/fig04.png)
 
 1. 学生として申請をするために以下の情報を入力します。
    1. 身分： **学生** を選択してください。
@@ -50,14 +50,14 @@ JetBrainsの学生アカウントがない人は、学生アカウントを作�
    9. JetBrains Account Agreementを読み、同意します には **チェックする**
    10. 私は...使用されることに同意します は、**好きな方を選んでかまいません。**
 2. 入力を終えたあと、**無料製品を申し込む**をクリックしてください。
-3. あなたの大学のメールアドレスに、JetBrainsから承認確認メールが届きます。メールの中の承諾リンク（**Follow this link**）をクリックしてください。<br>![](fig05.png)
+3. あなたの大学のメールアドレスに、JetBrainsから承認確認メールが届きます。メールの中の承諾リンク（**Follow this link**）をクリックしてください。<br>![](fig/fig05.png)
 4. 表示されるページで一番下までスクロールし、**承諾**をクリックしてください。
 5. 次にアカウント作成に移ります。https://account.jetbrains.com/login　へアクセスしてください。
-6. 赤枠で囲まれた部分に**登録のときに使用したメールアドレス**を入力し、**Sign up**をクリックしてください。**ここで入力するメールアドレスは必ず登録のときと同じ大学のメールアドレスにしてください。**<br>![](fig06.png)
-7. 以下の表示になるので![](fig07.png)
-8. 届いたメール内の**Confirm your account**をクリックしてください。<br>![](fig08.png)
+6. 赤枠で囲まれた部分に**登録のときに使用したメールアドレス**を入力し、**Sign up**をクリックしてください。**ここで入力するメールアドレスは必ず登録のときと同じ大学のメールアドレスにしてください。**<br>![](fig/fig06.png)
+7. 以下の表示になるので![](fig/fig07.png)
+8. 届いたメール内の**Confirm your account**をクリックしてください。<br>![](fig/fig08.png)
 9. アカウント作成画面が表示されるので**Username**と**Password**を入力し**Submit**をクリックしてください。
-10. 以下のような画面が表示されていればアカウント作成完了です。<br>![](fig09.png)
+10. 以下のような画面が表示されていればアカウント作成完了です。<br>![](fig/fig09.png)
 
 以上です。
 
@@ -68,7 +68,7 @@ JetBrainsの学生アカウントがない人は、学生アカウントを作�
 1. IntelliJ IDEA を起動します。
 2. もし、IntelliJ USER AGREEMENT の画面が表示されたら、 **I confirm ...** にチェックをいれ **Continue** ボタンを押します。
 3. もし、DATA SHARING の画面が表示されたら、どちらか好みのボタンを押します。
-4. 以下のように認証が求められます。<br>![](fig10.png)
+4. 以下のように認証が求められます。<br>![](fig/fig10.png)
 5. ここで、JetBrainsの学生アカウントと同じ **ユーザーネーム or 大学のメールアドレス** と **パスワード** を入力し **Activate** をクリックしてください。
 6. IntelliJ IDEA がユーザ認証され、起動します。
 
@@ -83,13 +83,13 @@ IntellJ IDEAを日本語で使いたい場合は、日本語化プラグイン�
 
 ### インストール方法
 
-1. IntelliJ IDEAを起動します。（わかりやすいように、ウィンドウをダークカラー⇒ライトカラーにしています）<br>![Welcome](fig11.png)
-2. **起動画面（Welcome to IntelliJ IDEA）の左側 Plugins を選択** します。<br>![Configure>Plugins](fig12.png)
+1. IntelliJ IDEAを起動します。（わかりやすいように、ウィンドウをダークカラー⇒ライトカラーにしています）<br>![Welcome](fig/fig11.png)
+2. **起動画面（Welcome to IntelliJ IDEA）の左側 Plugins を選択** します。<br>![Config/figure>Plugins](fig/fig12.png)
 3. プラグインのインストールウィンドウが開きます。
 4. インストールウィンドウで **「Marletplace」が選択されていることを確認** します。<br>（分からなければ、 Marketplace の文字を一度クリックしてください）
-5. 検索ウインドウに、 **japan** と入力すると、 **Japanese Language Pack** が表示されます。<br>![Japanese Language Pack](fig13.png)
+5. 検索ウインドウに、 **japan** と入力すると、 **Japanese Language Pack** が表示されます。<br>![Japanese Language Pack](fig/fig13.png)
 6. **Install** ボタンを押します。
-7. インストールが完了すると、 **Install** ボタンが **Restart IDE** ボタンに変わるので、これを押して、IDEを再起動します。<br>![Restart](fig14.png)
-8. メニューの文字が日本語になっていれば成功です。<br>![日本語メニューになっている](fig15.png)
+7. インストールが完了すると、 **Install** ボタンが **Restart IDE** ボタンに変わるので、これを押して、IDEを再起動します。<br>![Restart](fig/fig14.png)
+8. メニューの文字が日本語になっていれば成功です。<br>![日本語メニューになっている](fig/fig15.png)
 
 以上です。
